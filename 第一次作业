@@ -1,1 +1,6 @@
-
+APP:Not running , Inactive , Active , Background , Suspended
+ViewController:alloc/init,loadView,viewDidLoad,viewWillAppear,viewDidApper,viewWillDisappear,viewDisappear,dealloc
+1、UIScrollVIew 2、UITableView 3、UICollevtionView 4、UIWebView 5、UITabBarController
+1、(void)tableView:(UITableVIew*)tableView didSelectRowAtlndexPath:(NSindexPath*)indexPath
+2、(UIView*)tableVIew:(UITableView*)tableView viewForHeaderlnSection:(NSInteger)section
+3、(UIView*)tableView:(UITableView viewForFootrelnSection:(NSInteger)section
